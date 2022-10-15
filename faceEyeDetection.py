@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar  7 14:25:33 2019
-
-@author: Indranil
-"""
+# -*- coding: utf-8 -*
 #pip install opencv-python
 import cv2
 import numpy as np
